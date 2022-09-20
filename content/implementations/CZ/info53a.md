@@ -26,7 +26,7 @@ subjectmatter:
 compensation:
 - does not require the payment of compensation
 attribution: 
--
+- no attribution required
 otherConditions: 
 - quantitative limitations: does not exceed the scope of the intended purpose (general exception)
 - 3-step test: uses of works must not conflict with a normal exploitation of the work and not unreasonably prejudice the legitimate interests of the author 
